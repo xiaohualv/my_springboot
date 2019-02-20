@@ -1,0 +1,3 @@
+springboot2.0不再支持Spring Loaded
+
+推荐的方法是使用spring-boot-devtools
