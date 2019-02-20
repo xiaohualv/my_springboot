@@ -1,0 +1,182 @@
+2019-02-18 16:43:31.739  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:43:31.739  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:43:32.003  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:43:32.003  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:43:32.003  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:43:32.035  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:43:32.035  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 296 ms
+2019-02-18 16:43:32.128  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:43:32.144  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:43:32.175  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:43:32.191  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:43:32.191  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.502 seconds (JVM running for 55.371)
+2019-02-18 16:43:32.191  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:43:48.826  INFO 7464 --- [Thread-22] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:43:49.076  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:43:49.076  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:43:49.435  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:43:49.435  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:43:49.435  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:43:49.450  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:43:49.450  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 374 ms
+2019-02-18 16:43:49.481  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:43:49.513  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:43:49.544  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:43:49.544  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:43:49.544  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.515 seconds (JVM running for 72.73)
+2019-02-18 16:43:49.544  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:43:51.077  INFO 7464 --- [Thread-28] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:43:51.404  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:43:51.404  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:43:51.623  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:43:51.623  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:43:51.623  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:43:51.638  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:43:51.638  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 234 ms
+2019-02-18 16:43:51.685  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:43:51.701  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:43:51.716  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:43:51.763  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:43:51.763  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.39 seconds (JVM running for 74.938)
+2019-02-18 16:43:51.763  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:44:06.352  INFO 7464 --- [Thread-34] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:44:06.493  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:44:06.493  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:44:06.680  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:44:06.696  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:44:06.696  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:44:06.711  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:44:06.711  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 218 ms
+2019-02-18 16:44:06.743  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:44:06.758  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:44:06.758  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:44:06.774  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:44:06.774  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.312 seconds (JVM running for 89.956)
+2019-02-18 16:44:06.774  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:44:18.324  INFO 7464 --- [Thread-40] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:44:18.481  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:44:18.481  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:44:18.715  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:44:18.715  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:44:18.715  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:44:18.730  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:44:18.730  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 249 ms
+2019-02-18 16:44:18.762  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:44:18.777  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:44:18.793  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:44:18.808  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:44:18.808  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.358 seconds (JVM running for 101.989)
+2019-02-18 16:44:18.808  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:44:55.762  INFO 7464 --- [Thread-46] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:44:55.919  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:44:55.919  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:44:56.341  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:44:56.341  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:44:56.341  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:44:56.356  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:44:56.356  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 437 ms
+2019-02-18 16:44:56.387  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:44:56.419  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:44:56.497  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:44:56.621  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:44:56.621  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.733 seconds (JVM running for 139.801)
+2019-02-18 16:44:56.621  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:45:08.094  INFO 7464 --- [Thread-52] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:08.251  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:45:08.251  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:45:08.439  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:45:08.439  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:45:08.439  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:45:08.439  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:45:08.454  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 203 ms
+2019-02-18 16:45:08.470  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:08.485  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:45:08.501  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:45:08.517  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:45:08.517  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.297 seconds (JVM running for 151.692)
+2019-02-18 16:45:08.517  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:45:20.082  INFO 7464 --- [Thread-58] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:20.286  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:45:20.286  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:45:20.473  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:45:20.473  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:45:20.473  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:45:20.489  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:45:20.489  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 203 ms
+2019-02-18 16:45:20.520  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:20.520  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:45:20.536  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:45:20.551  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:45:20.551  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.296 seconds (JVM running for 163.728)
+2019-02-18 16:45:20.551  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:45:22.975  INFO 7464 --- [Thread-64] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:23.209  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:45:23.209  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:45:23.412  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:45:23.412  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:45:23.412  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:45:23.428  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:45:23.428  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 219 ms
+2019-02-18 16:45:23.474  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:23.490  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:45:23.506  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:45:23.506  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:45:23.506  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.328 seconds (JVM running for 166.692)
+2019-02-18 16:45:23.506  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:45:52.342  INFO 7464 --- [Thread-70] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:52.561  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:45:52.561  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:45:52.748  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:45:52.748  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:45:52.748  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:45:52.748  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:45:52.748  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 187 ms
+2019-02-18 16:45:52.779  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:45:52.795  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:45:52.811  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:45:52.826  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:45:52.826  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.296 seconds (JVM running for 196.0)
+2019-02-18 16:45:52.826  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:46:02.377  INFO 7464 --- [Thread-76] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:46:02.881  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:46:02.881  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:46:03.083  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:46:03.083  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:46:03.083  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:46:03.099  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:46:03.099  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 218 ms
+2019-02-18 16:46:03.130  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:46:03.146  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:46:03.161  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:46:03.161  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:46:03.161  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.327 seconds (JVM running for 206.346)
+2019-02-18 16:46:03.161  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:46:16.769  INFO 7464 --- [Thread-82] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:46:16.878  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:46:16.878  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:46:17.081  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:46:17.081  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:46:17.081  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:46:17.112  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:46:17.112  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 234 ms
+2019-02-18 16:46:17.159  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:46:17.174  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:46:17.221  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:46:17.221  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:46:17.221  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.374 seconds (JVM running for 220.407)
+2019-02-18 16:46:17.237  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:46:24.781  INFO 7464 --- [Thread-88] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:46:24.907  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Starting LogbackApplication on 16101220-8-PC with PID 7464 (D:\laozhuang\logback\target\classes started by Administrator in D:\laozhuang)
+2019-02-18 16:46:24.907  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-02-18 16:46:25.094  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-02-18 16:46:25.094  INFO 7464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-02-18 16:46:25.094  INFO 7464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-18 16:46:25.110  INFO 7464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-02-18 16:46:25.110  INFO 7464 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 203 ms
+2019-02-18 16:46:25.141  INFO 7464 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-18 16:46:25.157  WARN 7464 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-02-18 16:46:25.188  INFO 7464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-02-18 16:46:25.204  INFO 7464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-18 16:46:25.204  INFO 7464 --- [restartedMain] c.springboot.logback.LogbackApplication  : Started LogbackApplication in 0.328 seconds (JVM running for 228.376)
+2019-02-18 16:46:25.204  INFO 7464 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-02-18 16:46:33.712  INFO 7464 --- [Thread-94] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
