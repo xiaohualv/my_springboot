@@ -1,0 +1,28 @@
+<!DOCTYPE html >
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <table style="border: skyblue 1px solid ">
+        <tr>
+            <td>姓名</td>
+            <td>密码</td>
+        </tr>
+        <tr>
+            <td th:text="${user.name}">张三</td>
+            <td th:text="${user.age}">10</td>
+        </tr>
+    </table>
+
+    <span th:text="'这个是字符串'" /> <br/>
+    <span th:text="'The name of the user is ' + ${user.name}" />
+
+    <br />
+
+     姓名： <input type="text" name="name" value="妞妞" th:value="${user.name}" />
+
+</body>
+</html>
