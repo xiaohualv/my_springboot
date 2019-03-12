@@ -1,5 +1,6 @@
 package com.laozhuang.mybatis.model;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
@@ -9,6 +10,7 @@ import lombok.Data;
  * @create: 2019-03-08 13:47
  **/
 @Data
+@AllArgsConstructor
 public class User {
 
     private Integer id;
@@ -18,4 +20,8 @@ public class User {
     private Integer age;
 
     private String phone;
+
+    public User(){
+
+    }
 }
